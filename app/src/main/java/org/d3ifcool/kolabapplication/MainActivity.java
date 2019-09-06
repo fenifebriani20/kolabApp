@@ -16,5 +16,6 @@ public class MainActivity extends AppCompatActivity {
         //raka gelo
 
         //Todo Ku coba untuk melawan hati
+        //Todo Tapi Hampa terasa
     }
 }
