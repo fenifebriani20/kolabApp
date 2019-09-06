@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
         //Todo Ku coba untuk melawan hati
         //Todo Tapi Hampa terasa
         //Sedih tampa mu, bagi kuuuu semua sangat berarti lagi, kuingin kau disini
-        //Sedih kan hari ku bersama muuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu uuuuuuuu
+        //Tepikankan sepi ku bersama muuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu uuuuuuuu
         //Hingga akhir waktu
     }
 }
